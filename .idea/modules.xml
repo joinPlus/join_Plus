@@ -3,9 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/join_Plus.iml" filepath="$PROJECT_DIR$/.idea/join_Plus.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../nenu_qy/web/nenu_jysj.iml" filepath="$PROJECT_DIR$/../nenu_qy/web/nenu_jysj.iml" />
+      <module fileurl="file://D:/nenu_qy/web/nenu_jysj.iml" filepath="D:/nenu_qy/web/nenu_jysj.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework_joinPlus/newframework.iml" filepath="$PROJECT_DIR$/framework_joinPlus/newframework.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework_joinPlus/newframework.iml" filepath="$PROJECT_DIR$/framework_joinPlus/newframework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework_joinPlus/service/newframework-service.iml" filepath="$PROJECT_DIR$/framework_joinPlus/service/newframework-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework_joinPlus/service/newframework-service.iml" filepath="$PROJECT_DIR$/framework_joinPlus/service/newframework-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework_joinPlus/web/newframework-web.iml" filepath="$PROJECT_DIR$/framework_joinPlus/web/newframework-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework_joinPlus/web/newframework-web.iml" filepath="$PROJECT_DIR$/framework_joinPlus/web/newframework-web.iml" />
