@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="nenu_jysj:war">
+    <output-path>$PROJECT_DIR$/../nenu_qy/web/target</output-path>
+    <root id="archive" name="nenu_jysj.war">
+      <element id="artifact" artifact-name="nenu_jysj:war exploded" />
+    </root>
+  </artifact>
+</component>
