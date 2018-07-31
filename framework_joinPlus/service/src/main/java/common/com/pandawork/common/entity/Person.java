@@ -8,7 +8,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 /**
- * @Author:liangll lianglltest xiaoyao xiaoran lixin dage
+ * @Author:liangll lianglltest xiaoyao xiaoran lixin dage ljy
  * @Description: person实体
  * @Date: 15:39 2018/7/28
  */

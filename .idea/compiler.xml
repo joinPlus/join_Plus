@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="nenu_jysj" />
         <module name="newframework-service" />
         <module name="newframework-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="nenu_jysj" target="1.8" />
       <module name="newframework" target="1.5" />
       <module name="newframework-service" target="1.6" />
       <module name="newframework-web" target="1.5" />
